@@ -1,12 +1,6 @@
  <h1 align="center">Hello my name is Giorgi</h1>
 <h3 align="center">I am a web-developer from Georgia, Check out my protfolio https://giorgikutateladze.netlify.app/</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vindextos" alt="vindextos" />
-  </a>
-</p>
-
 - Me and my friend are working on .Net based React app right now [movie-net-react](https://github.com/vindexTOS/movie-net-react)
 
 - I’m currently learning **Php/SQL/ React Native/ AWS**
@@ -28,7 +22,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vindexTOS&theme=merko&hide_border=true" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindexTOS&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
- 
+ ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vindexTOS&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=vindexTOS&icon=0&color=3)](https://visitcount.itsvg.in)
 
