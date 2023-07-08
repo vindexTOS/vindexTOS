@@ -1,7 +1,11 @@
  <h1 align="center">Hello my name is Giorgi</h1>
 <h3 align="center">I am a web-developer from Georgia, Check out my protfolio https://giorgikutateladze.netlify.app/</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vindextos" alt="vindextos" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vindextos" alt="vindextos" />
+  </a>
+</p>
 
 - Me and my friend are working on .Net based React app right now [movie-net-react](https://github.com/vindexTOS/movie-net-react)
 
