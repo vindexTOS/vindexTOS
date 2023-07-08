@@ -8,7 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://giorgikutateladze.netlify.app/](https://giorgikutateladze.netlify.app/)
 
 - 📫 How to reach me **g.kutateli@gmail.com**
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vindexTOS&theme=radical&no-frame=true&no-bg=false&margin-w=4)
  
  
 ## 🌐 Socials:
@@ -22,8 +23,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vindexTOS&theme=merko&hide_border=true" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindexTOS&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vindexTOS&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=vindexTOS&icon=0&color=3)](https://visitcount.itsvg.in)
 
