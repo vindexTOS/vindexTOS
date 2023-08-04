@@ -8,9 +8,7 @@
 
 - 📫 How to reach me **g.kutateli@gmail.com**
   
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vindexTOS&theme=radical&no-frame=true&no-bg=false&margin-w=4)
- 
+
 ## 🌐 Socials:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giorgi-kutateladze-65a83919a/) 
 
