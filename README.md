@@ -2,8 +2,7 @@
 <h3 align="center">I am a web-developer from Georgia, Check out my protfolio https://giorgikutateladze.netlify.app/</h3>
 
  
-- I’m currently learning **Php/SQL/ React Native/ AWS**
-
+ 
 - 👨‍💻 All of my projects are available at [https://giorgikutateladze.netlify.app/](https://giorgikutateladze.netlify.app/)
 
 - 📫 How to reach me **g.kutateli@gmail.com**
