@@ -1,9 +1,9 @@
  <h1 align="center">Hello my name is Giorgi</h1>
-<h3 align="center">I am a web-developer from Georgia, Check out my protfolio [https://giorgikutateladze.com/](giorgikutateladze.com) </h3>
+<h3 align="center">I am a web-developer from Georgia, Check out my protfolio [giorgikutateladze.com ](https://giorgikutateladze.com/) </h3>
 
  
  
-- 👨‍💻 All of my projects are available at [https://giorgikutateladze.com/](giorgikutateladze.com)
+- 👨‍💻 All of my projects are available at [giorgikutateladze.com ](https://giorgikutateladze.com/)
 
 - 📫 How to reach me **g.kutateli@gmail.com**
   
