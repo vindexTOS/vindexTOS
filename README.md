@@ -20,6 +20,15 @@ I’m comfortable owning a product end-to-end: backend services, mobile apps, ad
 
 ---
 
+
+
+
+## What I work on
+- IoT & device platforms (MQTT, OCPP, TCP, WebSockets)
+- EV charging systems (billing, sessions, telemetry)
+- Elevator & smart-infrastructure platforms
+- Kiosk and access-control systems
+- Real-time dashboards and admin panels
 ## Mobile Development
 - Built and shipped multiple **production mobile apps** for iOS and Android
 - Strong experience with **React Native** (Expo & bare workflow)
@@ -29,46 +38,13 @@ I’m comfortable owning a product end-to-end: backend services, mobile apps, ad
   - Push notifications
   - Offline handling and error recovery
 - Experience publishing, maintaining, and updating apps on both platforms
-
-
-## What I work on
-- IoT & device platforms (MQTT, OCPP, TCP, WebSockets)
-- EV charging systems (billing, sessions, telemetry)
-- Elevator & smart-infrastructure platforms
-- Kiosk and access-control systems
-- Real-time dashboards and admin panels
-
 ---
-
 ## Tech
-**Backend**
-- Node.js, NestJS, Express
-- Laravel (PHP)
-- C# / .NET
-
-**Frontend**
-- React
-- React Native
-- Next.js
-- Angular (working experience)
-
-**Databases**
-- MongoDB
-- MySQL
-- MSSQL
- -PostgreSQL
-**Infrastructure**
-- Linux
-- Docker
-- CI/CD
-- Nginx
-- AWS, DigitalOcean, Hetzner
-
-**Messaging & Realtime**
-- RabbitMQ
-- MQTT
-- WebSockets
-- Redis
+**Backend:** Node.js, NestJS, Express, Laravel (PHP), C#/.NET  
+**Frontend:** React, React Native, Next.js, Angular  
+**Databases:** MongoDB, MySQL, MSSQL, PostgreSQL  
+**Infrastructure:** Linux, Docker, CI/CD, Nginx, AWS, DigitalOcean, Hetzner  
+**Messaging & Realtime:** RabbitMQ, MQTT, Redis, WebSockets
 
 ---
 
