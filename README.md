@@ -1,26 +1,88 @@
- <h1 align="center">Hello my name is Giorgi</h1>
-<h3 align="center">I am a web-developer from Georgia, Check out my protfolio  giorgikutateladze.com   </h3>
+# Giorgi Kutateladze
+Software Engineer
 
- 
- 
-- 👨‍💻 All of my projects are available at [giorgikutateladze.com ](https://giorgikutateladze.com/)
+I build systems that run in the real world: IoT platforms, EV chargers, elevator systems, GPS tracking, kiosks, and real-time device networks.
 
-- 📫 How to reach me **g.kutateli@gmail.com**
-  
+Most of my work sits at the intersection of backend, infrastructure, and devices — things that need to stay online, scale horizontally.
 
-## 🌐 Socials:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giorgi-kutateladze-65a83919a/) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-# 📊 GitHub Stats:
- <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vindexTOS&theme=merko&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vindexTOS&theme=merko&hide_border=true" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindexTOS&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+I’m comfortable owning a product end-to-end: backend services, mobile apps, admin panels, deployments, and monitoring.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vindexTOS&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## System Design & Architecture
+- Designed and operated **scalable, multi-instance systems** handling real-time device traffic
+- Experience with **horizontal scaling**, stateless services, and **load-balanced APIs**
+- Designed **event-driven architectures** using message queues (RabbitMQ) to prevent data loss and duplicates
+- Implemented **idempotency, retries, and dead-letter flows** for payments and telemetry
+- Comfortable with **service decomposition**, versioning, and safe rollouts
+- Production experience debugging race conditions, bottlenecks, and distributed failures
+- Familiar with reverse proxies and traffic routing (Nginx), health checks, and zero-downtime deployments
+
+---
+
+## Mobile Development
+- Built and shipped multiple **production mobile apps** for iOS and Android
+- Strong experience with **React Native** (Expo & bare workflow)
+- Implemented:
+  - Payments and wallets
+  - Real-time session tracking
+  - Push notifications
+  - Offline handling and error recovery
+- Experience publishing, maintaining, and updating apps on both platforms
+
+
+## What I work on
+- IoT & device platforms (MQTT, OCPP, TCP, WebSockets)
+- EV charging systems (billing, sessions, telemetry)
+- Elevator & smart-infrastructure platforms
+- Kiosk and access-control systems
+- Real-time dashboards and admin panels
+
+---
+
+## Tech
+**Backend**
+- Node.js, NestJS, Express
+- Laravel (PHP)
+- C# / .NET
+
+**Frontend**
+- React
+- React Native
+- Next.js
+- Angular (working experience)
+
+**Databases**
+- MongoDB
+- MySQL
+- MSSQL
+ -PostgreSQL
+**Infrastructure**
+- Linux
+- Docker
+- CI/CD
+- Nginx
+- AWS, DigitalOcean, Hetzner
+
+**Messaging & Realtime**
+- RabbitMQ
+- MQTT
+- WebSockets
+- Redis
+
+---
+
+## Experience
+- **MyGps** — EV charging platforms, IoT systems, real-time telemetry
+- **Eideas** — elevator platforms, smart lockers, device control systems
+- **KeyStone Development** — backend and infrastructure work
+- Freelance — full-cycle product development
+
+---
+
+## Contact
+- Email: giorgikutateladze1998@gmail.com
+- Email2:g.kutateli@gmail.com
+- GitHub: https://github.com/vindexTOS
+- LinkedIn: https://www.linkedin.com/in/giorgi-kutateladze-65a83919a/
+- Location: Tbilisi, Georgia
