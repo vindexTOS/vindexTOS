@@ -58,7 +58,6 @@ I’m comfortable owning a product end-to-end: backend services, mobile apps, ad
 
 ## Contact
 - Email: giorgikutateladze1998@gmail.com
-- Email2:g.kutateli@gmail.com
 - GitHub: https://github.com/vindexTOS
 - LinkedIn: https://www.linkedin.com/in/giorgi-kutateladze-65a83919a/
 - Location: Tbilisi, Georgia
